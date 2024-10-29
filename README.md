@@ -1,1 +1,1 @@
-# RT_generator
+# miniRT_generator
